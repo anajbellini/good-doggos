@@ -4,3 +4,4 @@ twitter-api-credentials.json
 # folders
 reviews/
 charts/
+.ipynb_checkpoints/
